@@ -4,8 +4,8 @@
 // Make a variable named greeting with a data type of string that says "Hi" (with double quotes)
 // After the first variable, make a variable named farewell with a data type of string that says 'Goodbye' (with single quotes)
 
-// Code here
-
+const greeting = "Hi"
+const farewell = "Goodbye"
 
 
 //////////////////PROBLEM 2////////////////////
@@ -14,16 +14,16 @@
 // Next, make a variable called userName with data types of string that is your name
 // Concatenate hello and userName together and store the result in a variable called salutation
 
-//Code here
-
+const hello = "Hello"
+const userName = "Brady"
+const salutation = hello + userName
 
 
 //////////////////PROBLEM 3////////////////////
 
 //Create a variable called seven that has a number data type with the value of 7
 
-//Code here
-
+const seven = 7
 
 
 //////////////////PROBLEM 4////////////////////
@@ -31,16 +31,14 @@
 // Make a variable called money with a value equal to the amount you wish to have in your bank account in 2 years
 // This datatype should be a number
 
-//Code here
-
+const money = 50000
 
 
 //////////////////PROBLEM 5////////////////////
 
 // Make a variable called awesome and give it a value of the boolean data type true
 
-//Code here
-
+const awesome = true
 
 
 //////////////////PROBLEM 6////////////////////
@@ -53,8 +51,7 @@ let myCar = "Jeep";
 // Set the variable myCar to be null
 
 
-//Code here
-
+myCar = null
 
 
 //////////////////PROBLEM 7////////////////////
@@ -62,8 +59,7 @@ let myCar = "Jeep";
 // Create a variable called users which should be an array with 4 items in it
 // Each item should be an object, and each object should have 2 properties: name (string) and age (number)
 
-//Code here
-
+const users = ["Brady", "Angela", 24, 27]
 
 
 //////////////////PROBLEM 8////////////////////
@@ -73,7 +69,7 @@ let myCar = "Jeep";
 // Each property will have a corresponding value which will be an object with one property called "hobbies"
 // Each hobbies property will have a corresponding value which will be an object
 
-//Code here
+const family = ["Richard", "Tyler", "Josh"]
 
 
 
